@@ -1,0 +1,7 @@
+trfk-sign-label/__pycache__/
+
+RpiBleApp/.bundle/
+RpiBleApp/.vscode/
+RpiBleApp/node_modules/
+RpiBleApp/android/
+RpiBleApp/ios/
